@@ -15,6 +15,7 @@ public class TipoCambioApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(TipoCambioApplication.class, args);
+		SpringApplication.run(TipoCambioApplication.class, args);
 	}
 
 }
